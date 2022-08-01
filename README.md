@@ -25,8 +25,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 https://youtu.be/ID7zD0grYkQ
 
 ## Screenshots
-![Screenshot 1](/assets/images/Screenshot-1.png)
-![Screenshot 2](/assets/images/Screenshot-2.png)
+![Screenshot 1](./images/Screenshot-1.png)
+![Screenshot 2](./images/Screenshot-2.png)
 
 ## Link to deployed application
 https://note-taker-app-gmurphy03.herokuapp.com/
